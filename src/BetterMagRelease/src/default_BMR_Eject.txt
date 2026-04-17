@@ -87,3 +87,10 @@ M231 FiringPortWeapon
 XM177e2
 MF_NoiseMaker
 MF_Stonethrower
+H416N
+H416A5
+H416C
+H416CQB
+H416D
+H416N
+M27IAT
